@@ -1,6 +1,14 @@
 # CodeAlpha_Task
 This project presents a comprehensive analysis of Smartphone data collected from Amazon,focusing on understanding user preferences, brand performance, and key product features influencing customer satisfaction.
 
+Business Problem:
+
+"why are certain models underperforming in terms of customer rating and visibility,despite having competitive specifications"
+
+"Why do Smartphone with good ratings and specs still have poor sales or few reviews"
+
+"which smartphone features (RAM, Battery , camera , etc) have the greatest impact on ratings?"
+
 Project Objective: To Analyze Smartphone dataset to Identify:
 
  1.Which smartphone brand has the highest average rating?

@@ -3,19 +3,19 @@ This project presents a comprehensive analysis of Smartphone data collected from
 
 Project Objective: To Analyze Smartphone dataset to Identify:
 
-                 1.Which smartphone brand has the highest average rating?
+ 1.Which smartphone brand has the highest average rating?
 
-                 2.Which smartphone brands have highest number of models listed?
+ 2.Which smartphone brands have highest number of models listed?
 
-                 3.What are the Top 5 most Expensive smartphone?
+ 3.What are the Top 5 most Expensive smartphone?
 
-                 4.Which brand has the most consistent customer satisfaction?
+ 4.Which brand has the most consistent customer satisfaction?
 
-                 5.Which processor brands are most common ?
+ 5.Which processor brands are most common ?
 
-                 6.Which smartphone offers the best value for money?
+ 6.Which smartphone offers the best value for money?
 
-                 7.How does smartphone price vary with battery and storage?
+ 7.How does smartphone price vary with battery and storage?
                   
                   
 Data Description:-

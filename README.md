@@ -3,7 +3,7 @@ This project presents a comprehensive analysis of smartphone data collected from
 
 Project Objective:-To analyze smartphone dataset to identify:-
 
-                  1.Which smartphone brand has the highest average rating?
+                 1.which smartphone brand has the highest average rating?
                   
                   2.Which smartphone brands have highest number of models listed?
                   

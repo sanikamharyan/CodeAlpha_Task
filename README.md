@@ -1,21 +1,22 @@
 # CodeAlpha_Task
-This project presents a comprehensive analysis of smartphone data collected from Amazon, focusing on understanding user preferences, brand performance, and key product features influencing customer satisfaction.
+This project presents a comprehensive analysis of Smartphone data collected from Amazon,focusing on understanding user preferences, brand performance, and key product features influencing customer satisfaction.
 
-Project Objective: To Analyze Smartphone Dataset to identify:
+Project Objective: To Analyze Smartphone dataset to Identify:
 
-                  1.which smartphone brand has the highest average rating?
+                 1.Which smartphone brand has the highest average rating?
+
+                 2.Which smartphone brands have highest number of models listed?
+
+                 3.What are the Top 5 most Expensive smartphone?
+
+                 4.Which brand has the most consistent customer satisfaction?
+
+                 5.Which processor brands are most common ?
+
+                 6.Which smartphone offers the best value for money?
+
+                 7.How does smartphone price vary with battery and storage?
                   
-                  2.Which smartphone brands have highest number of models listed?
-                  
-                  3.what are the top 5 most expensive smartphones?
-
-                  4.which brand has the most consistent customer satisfaction?
-
-                  5.which processcor brands are most common?
-
-                  6.which smartphone offers the best value for money?
-
-                  7.how does smartphone price vary with battery and storage? 
                   
 Data Description:-
 

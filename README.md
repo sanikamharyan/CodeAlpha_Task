@@ -1,7 +1,7 @@
 # CodeAlpha_Task
 This project presents a comprehensive analysis of smartphone data collected from Amazon, focusing on understanding user preferences, brand performance, and key product features influencing customer satisfaction.
 
-Project Objective:-To analyze smartphone dataset to identify:-
+Project Objective: To Analyze Smartphone Dataset to identify:
 
                   1.which smartphone brand has the highest average rating?
                   

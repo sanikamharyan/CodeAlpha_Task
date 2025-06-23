@@ -76,3 +76,6 @@ Tools Used:
 3.quadratic ai for analysing data.
 
 4.power bi for visualization.
+
+Dashboard Preview:https://github.com/sanikamharyan/CodeAlpha_Task/blob/main/dashboard%20screenshot.JPG
+
